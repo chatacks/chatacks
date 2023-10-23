@@ -15,7 +15,7 @@
 </div>
 <br>
 
-## Social Medias
+## 💻 Social Medias
 <p align="left" style="background: dark"> 
   <a href="https://www.linkedin.com/in/thyago-chatack/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
