@@ -1,9 +1,16 @@
 # Hello There! 👋
 
 ## ⚙️ GitHub Analytcs
-![Chatacks GitHub stats](https://github-readme-stats.vercel.app/api?username=chatacks&show_icons=true&theme=radical) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chatacks&layout=compact&langs_count=16&theme=radical)
+<div>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=chatacks&show_icons=true&theme=radical"
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chatacks&layout=compact&langs_count=16&theme=radical"
+  />
+</div>
 
 ## 🛠️ Tech Stack
 <div style="display: inline_block"><br>
