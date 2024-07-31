@@ -1,4 +1,37 @@
-# Hello There! 👋
+# 👋 &nbsp;Olá, eu sou o Thyago!</h1>
+
+## 💻 Social Medias
+<p>
+<a href="https://www.linkedin.com/in/thyago-chatack/" target="_blank"><img src="https://img.shields.io/badge/-Thyago%20Chatack%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:chatack.tc@gmail.com"><img src="https://img.shields.io/badge/-chatack.tc@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+
+## 👨🏻‍💻 &nbsp;About Me
+- Sou um ex-vendedor apaixonado por tecnologia e aprendizado. Trago curiosidade e dedicação para me manter atualizado com as últimas tendências. Minha transição para a área tecnológica foi impulsionada pela busca de desafios e oportunidades de crescimento.
+
+## 🛠️ Tech Stack
+### 💻 &nbsp;Front-end:
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![Redux](https://img.shields.io/badge/Redux-333333?style=flat&logo=redux&logoColor=593D88)
+<br>
+
+### ⚙️ &nbsp;Back-end e banco de dados:
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=white)
+![Mocha](https://img.shields.io/badge/mocha.js-333333?style=flat&logo=mocha&logoColor=Brow)
+![Chai](https://img.shields.io/badge/chai.js-333333?style=flate&logo=chai&logoColor=red)
+![Sinon](https://img.shields.io/badge/sinon.js-333333?style=flat&logo=sinon)
 
 ## ⚙️ GitHub Analytcs
 <div>
@@ -12,19 +45,3 @@
   />
 </div>
 
-## 🛠️ Tech Stack
-<div style="display: inline_block"><br>
-  <img align="center" alt="Chatacks-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" >
-  <img align="center" alt="Chatacks-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" >
-  <img align="center" alt="Chatacks-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" >
-  <img align="center" alt="Chatacks-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" >
-  <img align="center" alt="Chatacks-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" >
-</div>
-<br>
-
-## 💻 Social Medias
-<p align="left" style="background: dark"> 
-  <a href="https://www.linkedin.com/in/thyago-chatack/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
