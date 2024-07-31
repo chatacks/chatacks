@@ -18,8 +18,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 ![Redux](https://img.shields.io/badge/Redux-333333?style=flat&logo=redux&logoColor=593D88)
+![TestingLibary](https://img.shields.io/badge/testing%20library-333333?style=flat&logo=testing-library&logoColor=red)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 <br>
 
 ### ⚙️ &nbsp;Back-end e banco de dados:
@@ -29,9 +30,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-333333?style=flat&logo=Sequelize&logoColor=white)
 ![Mocha](https://img.shields.io/badge/mocha.js-333333?style=flat&logo=mocha&logoColor=Brow)
 ![Chai](https://img.shields.io/badge/chai.js-333333?style=flate&logo=chai&logoColor=red)
 ![Sinon](https://img.shields.io/badge/sinon.js-333333?style=flat&logo=sinon)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=white)
 
 ## 🚀 &nbsp;GitHub Analytcs
 <div>
