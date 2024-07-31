@@ -33,7 +33,7 @@
 ![Chai](https://img.shields.io/badge/chai.js-333333?style=flate&logo=chai&logoColor=red)
 ![Sinon](https://img.shields.io/badge/sinon.js-333333?style=flat&logo=sinon)
 
-## ⚙️ GitHub Analytcs
+## 🚀 &nbsp;GitHub Analytcs
 <div>
   <img 
     height="180em" 
