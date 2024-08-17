@@ -7,7 +7,7 @@
 </p>
 
 ## 👨🏻‍💻 &nbsp;About Me
-- Oi, eu sou o Thyago! Sou apaixonado por tecnologia e aprendizado contínuo. Minha jornada na programação começou de forma inesperada enquanto jogava um jogo. Percebi que poderia automatizar algumas ações e acabei criando scripts utilizando a linguagem própria de um programa, o AutoHotkey. Desde então, me apaixonei pela possibilidade de criar e resolver problemas com código.
+Oi, eu sou o Thyago! Sou apaixonado por tecnologia e aprendizado contínuo. Minha jornada na programação começou de forma inesperada enquanto jogava um jogo. Percebi que poderia automatizar algumas ações e acabei criando scripts utilizando a linguagem própria de um programa, o AutoHotkey. Desde então, me apaixonei pela possibilidade de criar e resolver problemas com código.
 
 ## 🛠️ Tech Stack
 ### 💻 &nbsp;Front-end:
