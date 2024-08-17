@@ -7,7 +7,7 @@
 </p>
 
 ## 👨🏻‍💻 &nbsp;About Me
-- Sou um ex-vendedor apaixonado por tecnologia e aprendizado. Trago curiosidade e dedicação para me manter atualizado com as últimas tendências. Minha transição para a área tecnológica foi impulsionada pela busca de desafios e oportunidades de crescimento.
+- Oi, eu sou o Thyago! Sou apaixonado por tecnologia e aprendizado contínuo. Minha jornada na programação começou de forma inesperada enquanto jogava um jogo. Percebi que poderia automatizar algumas ações e acabei criando scripts utilizando a linguagem própria de um programa, o AutoHotkey. Desde então, me apaixonei pela possibilidade de criar e resolver problemas com código.
 
 ## 🛠️ Tech Stack
 ### 💻 &nbsp;Front-end:
