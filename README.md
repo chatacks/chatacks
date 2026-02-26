@@ -7,7 +7,22 @@
 </p>
 
 ## 👨🏻‍💻 &nbsp;About Me
-Oi, eu sou o Thyago! Sou apaixonado por tecnologia e aprendizado contínuo. Minha jornada na programação começou de forma inesperada enquanto jogava um jogo. Percebi que poderia automatizar algumas ações e acabei criando scripts utilizando a linguagem própria de um programa, o AutoHotkey. Desde então, me apaixonei pela possibilidade de criar e resolver problemas com código.
+Olá, eu sou o Thyago! Sou Desenvolvedor FullStack com quase 2 anos de experiência e atualmente graduando em Engenharia de Software. Trabalho com tecnologias de frontend e backend como React.js/Next.js, TypeScript, Express.js, NestJS e SQL.
+
+🛠️ Habilidades:
+
+- Criação de páginas dinâmicas com React.js/Next.js e TypeScript, utilizando Redux, Zustand ou Context API para gerenciamento de estado.
+- Estilização responsiva e moderna com CSS  e bibliotecas como Tailwind CSS.
+- Desenvolvimento de APIs com Node.js, Express.js, NestJS, TypeScript e Sequelize, aplicando POO e arquitetura em camadas (Model, Service e Controller).
+- Containerização de aplicações com Docker, facilitando a padronização de ambientes de desenvolvimento e produção.
+- Criação e manipulação de bancos de dados MySQL e PostgreSQL.
+- Implementação de testes no front-end com React Testing Library (RTL) e no back-end com foco em testes de integração e TDD utilizando Mocha, Chai e Sinon.
+- Experiência com Python para resolução de problemas complexos e implementação de algoritmos de busca e ordenação.
+- Experiência com controle de versão utilizando Git & GitHub e desenvolvimento com metodologias ágeis.
+
+💻 Conhecimentos Gerais:
+
+- Experiência em arquitetura de software e Design System.
 
 ## 🛠️ Tech Stack
 ### 💻 &nbsp;Front-end:
