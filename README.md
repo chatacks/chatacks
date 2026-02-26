@@ -40,11 +40,11 @@ Oi, eu sou o Thyago! Sou apaixonado por tecnologia e aprendizado contínuo. Minh
 <div>
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=chatacks&show_icons=true&theme=radical"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=chatacks&show_icons=true&theme=radical"
   />
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chatacks&layout=compact&langs_count=16&theme=radical"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chatacks&layout=compact&langs_count=16&theme=radical"
   />
 </div>
 
